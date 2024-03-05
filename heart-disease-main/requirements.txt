@@ -1,0 +1,12 @@
+// Write a program to print Hello World.
+// @author: Kaustubh Sharma(22327)
+// @date: 25/01/2024
+
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    cout << "Hello World\n";
+    return 0;
+}
